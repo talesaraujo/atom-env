@@ -1,0 +1,17 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "spell-check"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "predawn-syntax"
+    ]
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "ec8f8feb-b5ba-4776-93ed-f6c5a1d15c07"
+  welcome:
+    showOnStartup: false

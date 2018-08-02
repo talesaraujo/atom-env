@@ -1,3 +1,4 @@
+minimap
 autocomplete-python
 autocomplete-java
 MagicPython
@@ -9,5 +10,3 @@ intentions
 busy-signal
 file-icons
 predawn-syntax
-
-    

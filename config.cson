@@ -2,16 +2,35 @@
   core:
     disabledPackages: [
       "wrap-guide"
-      "spell-check"
     ]
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "predawn-syntax"
+      "bliss-syntax"
     ]
   editor:
+    fontSize: 15
     tabLength: 4
   "exception-reporting":
-    userId: "ec8f8feb-b5ba-4776-93ed-f6c5a1d15c07"
+    userId: "b8d19907-275e-4ddd-a95b-6bb3eef8f04c"
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#444489"
+        cyan: "#68c3c3"
+        green: "#579c8e"
+        red: "#d65555"
+        white: "#e8e8e8"
+        yellow: "#d1d166"
+      zBright:
+        brightBlue: "#5555b6"
+        brightGreen: "#579c8e"
+        brightRed: "#c45959"
+        brightWhite: "#e3e3e3"
+        brightYellow: "#d2d24c"
+    iconColors:
+      yellow: "#ffff76"
+    style:
+      theme: "dracula"
   welcome:
     showOnStartup: false
